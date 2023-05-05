@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D7Pxw2X3bn+dFkv0dKYt143/zeamYixWd8a23ZxdNh5niNp/iYCv+ir5opEVsyPD/+e35tZDHCf9cknZ2Sitw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MeyraCan\\source\\repos\\RedisTest\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\servicestack.common\\6.2.0\\servicestack.common.6.2.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\servicestack.interfaces\\6.2.0\\servicestack.interfaces.6.2.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\servicestack.redis\\6.2.0\\servicestack.redis.6.2.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\servicestack.text\\6.2.0\\servicestack.text.6.2.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MeyraCan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
